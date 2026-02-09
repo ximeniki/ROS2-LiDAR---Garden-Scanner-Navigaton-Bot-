@@ -1,4 +1,4 @@
-# ROS2 Autonomous Navigation: ROSBOT_XL Obstacle Avoidance
+# ROS2 Autonomous Navigation: ROSBOT_XL Garden Scanner
 
 This project implements a robust autonomous navigation system for the **ROSBOT_XL** platform using **ROS2**. Unlike basic avoidance scripts, this system uses a state-machine approach to process **LiDAR** data and execute precise maneuvers in a **Gazebo** simulated environment.
 
