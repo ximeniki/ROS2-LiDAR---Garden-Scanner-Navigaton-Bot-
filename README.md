@@ -33,7 +33,7 @@ The navigation is managed through clear operational milestones:
 ## Project Demonstration
 You can watch the full simulation of the ROSBOT_XL navigating and executing its state-machine logic here:
 
-🔗 **[Watch ROS2 Obstacle Avoidance Demo on YouTube](https://www.youtube.com/watch?v=2T5tok8V0GQ&t=8s)**
+🔗 **[Watch ROS2 Garden Scanner Demo on YouTube](https://www.youtube.com/watch?v=2T5tok8V0GQ&t=8s)**
 
 *In this video, the robot demonstrates real-time decision-making, transitioning from active navigation to safety verification states upon detecting obstacles via LiDAR.*
 
